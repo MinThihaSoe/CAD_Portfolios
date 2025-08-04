@@ -1,7 +1,8 @@
 # Screw Jack Model
 
-The code is provided by Brentyi
-Basically the same as the [original](https://github.com/brentyi/stl_web_viewer).
+The code is provided by Brentyi.
+
+Check out the original code: [original](https://github.com/brentyi/stl_web_viewer).
 
 ### Usage:
 
